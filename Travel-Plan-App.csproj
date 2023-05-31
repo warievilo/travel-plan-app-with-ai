@@ -4,7 +4,8 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>TravelPlanApp</RootNamespace>    
+    <RootNamespace>TravelPlanApp</RootNamespace>
+    <UserSecretsId>be5a7ea8-b701-4e57-ab8e-ed20a905f33f</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
